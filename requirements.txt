@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+pandas
+numpy
+seaborn
+sklearn.model_selection
+sklearn.preprocessing
+sklearn.ensemble
+sklearn.metrics
+pickle
